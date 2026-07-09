@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pixels Estates</title>
+</head>
+<body>
+  <h1>Welcome to Pixels Estates</h1>
+  <p>Own your digital pixel estate today!</p>
+</body>
+</html>
