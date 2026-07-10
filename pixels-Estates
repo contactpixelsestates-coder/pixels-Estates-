@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pixels Estates</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #006400, #FFD700);
+      color: white;
+      text-align: center;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.5em;
+    }
+    p {
+      font-size: 1.2em;
+      margin-bottom: 1.5em;
+    }
+    a.button {
+      background: white;
+      color: #006400;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+    a.button:hover {
+      background: #FFD700;
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+  <h1>Pixels Estates</h1>
+  <p>Own a piece of the digital world</p>
+  <a href="#" class="button">Claim Your Pixel</a>
+</body>
+</html>
